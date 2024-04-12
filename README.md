@@ -1,7 +1,7 @@
 # UWB-CSS-385-Project-3
 Project - Hero - Object Creation/Deletion and Time
 
-[Link to WebGL Game](https://wristbandshackles.github.io/UWB-CSS-385-Project-3/Builds/)
+### [Link to WebGL Game](https://wristbandshackles.github.io/UWB-CSS-385-Project-3/Builds/)
 
 # Details
 Author: [Christopher Long](https://www.linkedin.com/in/christopher--long/)
