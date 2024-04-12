@@ -4,6 +4,14 @@ Project - Hero - Object Creation/Deletion and Time
 [Link to WebGL Game](https://wristbandshackles.github.io/CSS-385-Project-3/Builds/)
 
 # Details
+Author: Christopher Long
+Date: 4/8/2024<br>
+Professor: Yusuf Pisan<br>
+Email: pisan@uw.edu<br>
+Due: April 14, 2024<br>
+Written in: Unity<br>
+
+
 Sample project: https://myuwbclasses.github.io/CSS385/MP/CSS385-MP2-Solution-WebGL/.
 
 Required features:
