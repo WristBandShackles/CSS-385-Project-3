@@ -4,7 +4,8 @@ Project - Hero - Object Creation/Deletion and Time
 [Link to WebGL Game](https://wristbandshackles.github.io/CSS-385-Project-3/Builds/)
 
 # Details
-Author: Christopher Long
+Author: [Christopher Long](https://www.linkedin.com/in/christopher--long/)
+
 Date: 4/8/2024<br>
 Professor: Yusuf Pisan<br>
 Email: pisan@uw.edu<br>
@@ -14,8 +15,7 @@ Written in: Unity<br>
 
 Sample project: https://myuwbclasses.github.io/CSS385/MP/CSS385-MP2-Solution-WebGL/.
 
-Required features:
-
+### Required features:
 1. Using prefabs for objects
 1. Key-M toggles between mouse and keyboard control
 1. Space Bar fires eggs every 0.2 seconds
@@ -27,4 +27,5 @@ Required features:
 1. When enemies are destroyed, they respawn at a random point at 90% os screen boundaries
 1. Application status is displayed: Hero Mode, Number of eggs, Enemy count, Enemies Destroyed
 1. Key-Q quits or Pauses the application
-1. Starting assets (which you can change): GreenUp.PNG, Plane.png, Egg.png
+1. Starting assets (which you can change): [GreenUp.PNG](https://github.com/WristBandShackles/CSS-385-Project-3/assets/103238301/18496a92-f514-4625-90c9-1de1facf3072), [Plane.png](https://github.com/WristBandShackles/CSS-385-Project-3/assets/103238301/36088a29-a1e5-4a67-a6f3-ed4ba5f069f1), [Egg.png](https://github.com/WristBandShackles/CSS-385-Project-3/assets/103238301/40561854-eb2d-43eb-b62c-4ae860181516)
+
