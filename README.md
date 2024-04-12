@@ -1,7 +1,7 @@
 # CSS-385-Project-3
 Project - Hero - Object Creation/Deletion and Time
 
-[Link to WebGL Game](https://wristbandshackles.github.io/CSS-385-Project-3/)
+[Link to WebGL Game](https://wristbandshackles.github.io/CSS-385-Project-3/Builds/)
 
 # Details
 Sample project: https://myuwbclasses.github.io/CSS385/MP/CSS385-MP2-Solution-WebGL/.
